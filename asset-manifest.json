@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/payout_v2_vaibhav/static/css/main.04db67b5.css",
+    "main.js": "/payout_v2_vaibhav/static/js/main.7aa484db.js",
+    "static/js/787.051392df.chunk.js": "/payout_v2_vaibhav/static/js/787.051392df.chunk.js",
+    "static/media/discounts.svg": "/payout_v2_vaibhav/static/media/discounts.a9566576cf859b5ddb03076d32d2490f.svg",
+    "static/media/audience.svg": "/payout_v2_vaibhav/static/media/audience.4a7f0ad9ebdeaf11c77e2ee6f2a2d1a5.svg",
+    "static/media/orders.svg": "/payout_v2_vaibhav/static/media/orders.13ff173b9c2a14c72adc63fefacd9ca4.svg",
+    "static/media/Vectorhelp.svg": "/payout_v2_vaibhav/static/media/Vectorhelp.8ef559ff54bcc2a23c5995c448c47f0c.svg",
+    "static/media/Home.svg": "/payout_v2_vaibhav/static/media/Home.c5c569aff2072c495fd9cf413da47e02.svg",
+    "static/media/delivery.svg": "/payout_v2_vaibhav/static/media/delivery.5f925b45b3ddc68dbfeb6b8025f3b959.svg",
+    "static/media/appearance.svg": "/payout_v2_vaibhav/static/media/appearance.4813707da7efd60ac248a8f2a12e52ed.svg",
+    "static/media/Vectorupdown.svg": "/payout_v2_vaibhav/static/media/Vectorupdown.5e6868217d837b106dac51eb7db01a79.svg",
+    "static/media/Menufeedback.svg": "/payout_v2_vaibhav/static/media/Menufeedback.b74eebab134f58b9385262c035d295a6.svg",
+    "static/media/Analytics.svg": "/payout_v2_vaibhav/static/media/Analytics.e0cad8fdbc91ac1cd4b781be2c461a1b.svg",
+    "static/media/marketing.svg": "/payout_v2_vaibhav/static/media/marketing.e517914a266bdee485d60cb7854ca35a.svg",
+    "static/media/downloaddownload.svg": "/payout_v2_vaibhav/static/media/downloaddownload.82b034457b58bcdddbdddd85540ab8e2.svg",
+    "static/media/products.svg": "/payout_v2_vaibhav/static/media/products.9345d679315faf537592a49adc3bd4c3.svg",
+    "static/media/walletwallet.svg": "/payout_v2_vaibhav/static/media/walletwallet.3ea53a98d5210266136c1e0c60252b88.svg",
+    "static/media/tools.svg": "/payout_v2_vaibhav/static/media/tools.fc47959abf67cf9c28f76030d391c3a1.svg",
+    "static/media/plugins.svg": "/payout_v2_vaibhav/static/media/plugins.2bd589caf8a0d896292cffb7d63dd48e.svg",
+    "static/media/Searchsearch.svg": "/payout_v2_vaibhav/static/media/Searchsearch.45283a207a0dacee5cf2e3d6ee0628b4.svg",
+    "index.html": "/payout_v2_vaibhav/index.html",
+    "static/media/payments.svg": "/payout_v2_vaibhav/static/media/payments.3842bd1546081f95a8c17f50b44e71cb.svg",
+    "static/media/Menupolygon.svg": "/payout_v2_vaibhav/static/media/Menupolygon.30d581aac2129754e45c36e04b665cf7.svg",
+    "static/media/arrowarrowBlack.svg": "/payout_v2_vaibhav/static/media/arrowarrowBlack.3bceeba3acf53ab0afe2ea617e0795ad.svg",
+    "static/media/arrowdown.svg": "/payout_v2_vaibhav/static/media/arrowdown.3da2c6a358326d4be6c8745b070a2040.svg",
+    "main.04db67b5.css.map": "/payout_v2_vaibhav/static/css/main.04db67b5.css.map",
+    "main.7aa484db.js.map": "/payout_v2_vaibhav/static/js/main.7aa484db.js.map",
+    "787.051392df.chunk.js.map": "/payout_v2_vaibhav/static/js/787.051392df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04db67b5.css",
+    "static/js/main.7aa484db.js"
+  ]
+}
