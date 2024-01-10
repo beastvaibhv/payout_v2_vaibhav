@@ -44,7 +44,7 @@ const Pagination = ({ totalItems, pageSize, currentPage, onPageChange }) => {
           ) : (
             <span
               key={index}
-              className={currentPage === page ? 'active' : ''}
+              className={currentPage === page ? 'active' : 'not-active'}
               onClick={() => onPageChange(page)}
             >
               {page}
