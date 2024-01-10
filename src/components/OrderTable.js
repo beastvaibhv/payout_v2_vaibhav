@@ -28,12 +28,14 @@ const OrderTable = () => {
         </tbody>
       </table>
       {data.length > pageSize && (
-        <Pagination
+        
+        <div className="pagination-container"><Pagination
           totalItems={data.length}
           pageSize={pageSize}
           currentPage={currentPage}
           onPageChange={setCurrentPage}
         />
+        </div>
       )}
     </div>
     

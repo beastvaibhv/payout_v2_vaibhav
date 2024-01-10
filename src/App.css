@@ -299,7 +299,7 @@ th{
 background:  #F2F2F2;
 }
 td{
-  height: 2.5rem;
+  height: 3rem;
   padding: 0.875rem 0.75rem;
   border-bottom: grey;
 }
@@ -312,4 +312,62 @@ td{
 }
 .order{
   color:  #146EB4;
+}
+
+
+/* Pagination*/
+.pagination-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.pagination-numbers {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+span {
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+.prev-next {
+  display: flex;
+padding: 0.375rem 0.75rem 0.375rem 0.375rem;
+justify-content: center;
+align-items: center;
+gap: 0.375rem;
+  margin: 0 0.5rem;
+}
+
+.active{
+  background-color: #146EB4;
+  display: flex;
+width: 1.75rem;
+height: 1.75rem;
+padding: 0.125rem 0rem;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 0.5rem;
+border-radius: 0.25rem;
+}
+.not-active{
+  display: flex;
+  width: 1.75rem;
+  height: 1.75rem;
+  padding: 0.125rem 0rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  border-radius: 0.25rem;
 }
