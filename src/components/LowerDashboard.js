@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Search from "../utils/assets/icons/Searchsearch.svg";
 import ArrowUpDown from "../utils/assets/icons/Vectorupdown.svg";
 import Download from "../utils/assets/icons/downloaddownload.svg";
+import OrderTable from './OrderTable';
 
 const LowerDashboard = () => {
     const [text, setText] = useState("");
@@ -39,6 +40,9 @@ const LowerDashboard = () => {
                 </div>
 
 
+            </div>
+            <div className='order-table'>
+                <OrderTable/>
             </div>
             </div>
 
