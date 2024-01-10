@@ -1,6 +1,7 @@
 import React from 'react'
 import Header from './Header'
 import Overview from './Overview'
+import LowerDashboard from './LowerDashboard'
 
 const Dashboard = () => {
   return (
@@ -8,7 +9,9 @@ const Dashboard = () => {
       <Header/>
       <div className='body-container'>
       <Overview/>
+      <LowerDashboard/>
       </div>
+
     </div>
   )
 }
